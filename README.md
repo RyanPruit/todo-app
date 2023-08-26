@@ -11,5 +11,5 @@ This is very simple to do app which is giving four options :-
 ## Learnings
 By building this very basic app, I gained hands on expirence on working with text files by adding and deleteing the to-do items as instructed by user.
 
-<p><a href="https://jekyll.github.io/minima/](https://github.com/sonialwani/todo-app/tree/master">Please have a look at my work</a></p>
+
 
