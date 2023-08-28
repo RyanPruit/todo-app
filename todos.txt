@@ -1,5 +1,0 @@
-clean
-car
-
-more
-jore
