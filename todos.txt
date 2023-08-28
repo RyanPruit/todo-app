@@ -7,3 +7,6 @@ qo
 bo
 gumna
 wash car
+check
+maid
+clean
