@@ -27,7 +27,7 @@ for index, do in enumerate(functions.todo):
 
 
 
-st.text_input(label="",placeholder="Add new todo...",on_change=add_todo,key='new_todo')+"\n"
+st.text_input(label="",placeholder="Add new todo...",on_change=add_todo,key='new_todo')+'\n'
 
 
 
