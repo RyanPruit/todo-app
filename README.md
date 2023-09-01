@@ -8,7 +8,6 @@ This is my first project on GitHub. It's my starting point for learning how to u
 This is a simple to-do list app with two main features:
 
 1.Clicking on a checkbox deletes a to-do item.
-
 2.You can add new to-do items to the list.
 
 ## Learnings
