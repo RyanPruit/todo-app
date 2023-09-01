@@ -2,14 +2,16 @@
 
 
 ## Motivation
-This is my first piece of work hosted on Github.I would say that, this is the starting point of my learning Github and Web Development using Python, Hoping to build some more complex Web apps using python.
+This is my first project on GitHub. It's my starting point for learning how to use GitHub and build websites with Python. I hope to make more complex web apps with Python in the future.
 
 ## Project Description
-This is very simple to do app which is giving four options :-
-(add - (adding new to do item), show - (showing the list of to-do items), delete - (deleting an item from to-do) and exit)
+This is a simple to-do list app with two main features:
+
+Clicking on a checkbox deletes a to-do item.
+You can add new to-do items to the list.
 
 ## Learnings
-By building this very basic app, I gained hands on expirence on working with text files by adding and deleteing the to-do items as instructed by user.
+By making this basic app, I learned how to work with text files. I could add and delete to-do items as the user wanted.
 
 ### [TO-DO App](https://sonialwani-todo-app-web-z7zmve.streamlit.app)
 
