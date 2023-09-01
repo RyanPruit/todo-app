@@ -3,8 +3,11 @@ import functions
 import streamlit as st
 st.title("My To-Do App")
 
+
 def add_todo():
     x = st.session_state['new_todo'] +'\n'
+
+    st.session_state.new_todo = ''
     functions.todo.append(x)
     functions.write_file()
 
