@@ -2,6 +2,7 @@
 import functions
 import streamlit as st
 st.title("My To-Do App")
+st.subheader("My first app")
 
 
 def add_todo():
